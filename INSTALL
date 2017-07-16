@@ -1,0 +1,9 @@
+Building KroneCoin
+
+See doc/readme-qt.rst for instructions on building KroneCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KroneCoin.
+
+See doc/build-*.txt for instructions on building KroneCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KroneCoin.
